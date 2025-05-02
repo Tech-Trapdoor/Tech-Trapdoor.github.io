@@ -3,7 +3,9 @@
 #I am an artist and I made this page to show off all of my awesome art, ya dig? 
  <h1>Techniques Class <img src="" align="right"></h1>
 
-this page is a portfolio made for the sole purpose of my foundation techniques class
+#this page is a portfolio made for the sole purpose of my foundation techniques class
+
+
 <!--
 **Tech-Trapdoor/Tech-Trapdoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
