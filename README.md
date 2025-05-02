@@ -1,6 +1,6 @@
 #Tech-Trapdoor.github.io
 ## Techniques Class wow
-
+I am an artist and I made this page to show off all of my awesome art, ya dig? 
 <!--
 **Tech-Trapdoor/Tech-Trapdoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
