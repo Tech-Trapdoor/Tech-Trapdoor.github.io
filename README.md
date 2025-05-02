@@ -1,7 +1,9 @@
 #Tech-Trapdoor.github.io
 ## Techniques Class wow
 #I am an artist and I made this page to show off all of my awesome art, ya dig? 
-
+ <h1>Techniques Class <img src="" align="right"></h1>
+    <hr>
+    <marquee> &nbsp;&nbsp;this page is a portfolio made for the sole purpose of my foundation techniques class&nbsp;&nbsp;&nbsp;&nbsp; this page is a portfolio made for the sole purpose of my foundation techniques class&nbsp;&nbsp;&nbsp;&nbsp; this page is a portfolio made for the sole purpose of my foundation techniques class&nbsp;&nbsp;&nbsp;&nbsp;this page is a portfolio made for the sole purpose of my foundation techniques class&nbsp;&nbsp;&nbsp;&nbsp;this page is a portfolio made for the sole purpose of my foundation techniques class&nbsp;&nbsp;&nbsp;&nbsp;this page is a portfolio made for the sole purpose of my foundation techniques class&nbsp;&nbsp;</marquee>
 
 <!--
 **Tech-Trapdoor/Tech-Trapdoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
