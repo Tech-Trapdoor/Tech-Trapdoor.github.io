@@ -1,5 +1,5 @@
 #Tech-Trapdoor.github.io
-## Hi there 👋
+## Techniques Class wow
 
 <!--
 **Tech-Trapdoor/Tech-Trapdoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
